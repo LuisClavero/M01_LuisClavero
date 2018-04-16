@@ -20,3 +20,4 @@ def funcionTel():
 
 funcionTel()
 print ("Tu lista de contactos es: ",dicTel)
+#Esta es la versión actualizada del programa, compruebo que esta todo correcto
